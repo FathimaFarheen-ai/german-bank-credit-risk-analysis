@@ -95,3 +95,13 @@ BCA Graduate | Data Analytics | AI/ML
 
 [LinkedIn](https://linkedin.com/in/Fathima-Farheen-m-348486300)  
 [GitHub](https://github.com/FathimaFarheen-ai)
+
+---
+
+## ⚠️ Usage & Copyright
+
+© 2026 Fathima Farheen MK. All rights reserved.
+
+This project is provided for portfolio and viewing purposes only.
+
+Unauthorized copying, modification, redistribution or reuse is prohibited.
